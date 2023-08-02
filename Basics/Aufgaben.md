@@ -8,7 +8,7 @@ Für alle Aufgaben gibt es ein Template in */src*, sowie ein ``make`` Befehl zum
 
 ## Aufgabe 1 (Hello_World)
 
-Schreibe ein Programm, dass die Nachricht "Hello World!" auf der Konsole ausgibt.
+Schreibe ein Programm, dass die Nachricht **"Hello World!"** auf der Konsole ausgibt.
 
 ``make helloWorld``
 
@@ -30,4 +30,4 @@ The sizeof(long double) is : 16 bytes
 The sizeof(bool) is : 1 bytes
 ```
 
-make dataTypes
+```make dataTypes```
